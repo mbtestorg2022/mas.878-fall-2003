@@ -26,8 +26,45 @@ Final Assignment
 
 Create an art piece that can be shown at the final class exhibition at CAVS. You may work alone or in collaboration. Interactive pieces are strongly encouraged.
 
-| SES # | TOPICS |
-| --- | --- |
-| 3 | First Assignment ([PDF]({{< baseurl >}}/resources/first_assign)) |
-| 7 | Midterm Assignment ([PDF]({{< baseurl >}}/resources/mid_assign)) |
-| 15 | Final Assignment ([PDF]({{< baseurl >}}/resources/final_assign))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+First Assignment ([PDF]({{< baseurl >}}/resources/first_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Assignment ([PDF]({{< baseurl >}}/resources/mid_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment ([PDF]({{< baseurl >}}/resources/final_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
