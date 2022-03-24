@@ -4,7 +4,7 @@ title: Readings
 uid: 99f92a2c-3ee7-fc01-cc87-7dc19f39960a
 ---
 
-Courchesne, L. Experiential Art: Case Study. January 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ic.media.mit.edu/courses/mas878/pubs/courchesne-02-experiential-art.pdf))
+Courchesne, L. Experiential Art: Case Study. January 2002. ([PDF](http://ic.media.mit.edu/courses/mas878/pubs/courchesne-02-experiential-art.pdf))
 
 Mazalek, A. "Tangible Interfaces for Interactive Point-of-View Narratives." Chapters 1 and 2 in MS Thesis. MIT Media Laboratory, 2001. ([PDF]({{< baseurl >}}/resources/mazalek))
 
