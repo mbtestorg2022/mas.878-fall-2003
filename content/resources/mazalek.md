@@ -12,6 +12,7 @@ description: This thesis presents three storytelling systems for interactive poi
   story.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/9102624a7f8a484e75b853b523aeb061_mazalek.pdf
 file_type: application/pdf
+parent_uid: 99f92a2c-3ee7-fc01-cc87-7dc19f39960a
 resourcetype: Document
 title: Tangible Interfaces for Interactive Point-of-View Narratives
 uid: 9102624a-7f8a-484e-75b8-53b523aeb061
